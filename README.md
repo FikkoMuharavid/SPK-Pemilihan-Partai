@@ -1,6 +1,7 @@
 Hasil Perangkingan
 ==================
 ![image](https://github.com/FikkoMuharavid/SPK-Pemilihan-Partai/assets/114418487/48727fdc-ed3f-4e7a-8721-d303c9f2cf5b)
+<br/><br/><br/>
 
 Halaman Input Alternatif (Partai)
 =================================
